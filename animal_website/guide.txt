@@ -1,0 +1,14 @@
+
+איך ליצור אתר עם קישור:
+
+1. פתח חשבון באתר GitHub
+2. צור Repository חדש
+3. העלה את הקבצים:
+index.html
+animals.js
+
+4. הפעל GitHub Pages
+
+ואז האתר שלך יהיה בקישור:
+
+https://USERNAME.github.io/animal-site
